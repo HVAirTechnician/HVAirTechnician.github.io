@@ -34,8 +34,8 @@ N:Vázquez;Héctor;;;
 ORG:HV Air Conditioning Technician
 TEL;TYPE=CELL:2232704975
 EMAIL:hvairtechnician@yahoo.com
-URL:https://borgesjorge2019.github.io/BorgesJorge2019.io/
-ADR:;;Caguas;Puerto Rico;;;
+URL:https://hvairtechnician.github.io/
+ADR:;;Bayamón;Puerto Rico;;;
 NOTE:Servicios de instalación, mantenimiento y reparación de sistemas de aire acondicionado. Limpieza técnica de paneles solares para máxima eficiencia energética.
 END:VCARD`;
 
